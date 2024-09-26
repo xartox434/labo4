@@ -2,39 +2,44 @@ header{
 
     font-weight: bold;
     font-style: italic;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times,sans-serif;
     color: white;
 }
 
 body{
-background-image: url(images/cinema.jpg);
+background-image: url(../images/cinema.jpg);
 background-size: cover;
 background-position: center;
-padding-left: 0%;
 
 }
+
+
 
 ul{
-
-    list-style-type: disc;
-    
-}
-
-li{
 
     color: white;
 }
 
 .realisateur{
 
-    list-style: none;
-    color: greenyellow;
-    font-size: 25px;
-    text-align: left;
-    }
-    
-    .Titre{
+list-style: none;
+color: greenyellow;
+font-size: 25px;
+margin-left: 0px;
+padding-left: 0px;
+}
 
+.Titre{
 
-        list-style: upper-latin;
-    }
+color: white;
+    list-style: upper-latin;
+   font-size: initial;
+}
+
+.acteur{
+
+    list-style-type: disc;
+    font-size: initial;
+    color: white;
+
+}
