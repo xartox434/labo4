@@ -10,6 +10,7 @@ body{
 background-image: url(../images/cinema.jpg);
 background-size: cover;
 background-position: center;
+font-family: sans-serif;
 
 }
 
@@ -18,6 +19,7 @@ background-position: center;
 ul{
 
     color: white;
+    font-family: sans-serif;
 }
 
 .realisateur{
@@ -27,6 +29,7 @@ color: yellowgreen;
 font-size: 25px;
 margin-left: 0px;
 padding-left: 0px;
+font-family: sans-serif;
 }
 
 .Titre{
@@ -34,6 +37,7 @@ padding-left: 0px;
 color: white;
     list-style: upper-latin;
    font-size: initial;
+   font-family: sans-serif;
 }
 
 .acteur{
@@ -41,5 +45,6 @@ color: white;
     list-style-type: disc;
     font-size: initial;
     color: white;
+    font-family: sans-serif;
 
 }
