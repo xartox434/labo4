@@ -1,0 +1,40 @@
+header{
+
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+body{
+background-image: url(images/cinema.jpg);
+background-size: cover;
+background-position: center;
+padding-left: 0%;
+
+}
+
+ul{
+
+    list-style-type: disc;
+    
+}
+
+li{
+
+    color: white;
+}
+
+.realisateur{
+
+    list-style: none;
+    color: greenyellow;
+    font-size: 25px;
+    text-align: left;
+    }
+    
+    .Titre{
+
+
+        list-style: upper-latin;
+    }
